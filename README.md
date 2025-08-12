@@ -1,4 +1,4 @@
-# 🌍 Climate Change Modelling — NLP Sentiment Analysis with Flask  
+# 🌍 Climate Change Modelling — NLP Sentiment Analysis with Machine Learning   
 
 <p align="center">
   <img src="https://i.postimg.cc/KKpXBNRt" alt="Climate Change Modelling Banner" width="80%">
