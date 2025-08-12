@@ -79,4 +79,4 @@ pip install -r requirements.txt
 python app.py
 
 
-live demo video link
+live demo video link  https://drive.google.com/file/d/1nVua6AfqBERvjspqG8b-EsEVumot79Ln/view?usp=sharing
